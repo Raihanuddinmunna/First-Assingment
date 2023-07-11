@@ -1,0 +1,23 @@
+ h3{
+    font-size:xx-large;
+    text-decoration:underline;
+    color:darkgreen;
+
+ }
+ .what{
+    background-color: aqua;
+    font-size: 30px;
+ }
+ .fwhat{
+    background-color: blue;
+    font-size: larger;
+    /* display: none; */
+    /* visibility: hidden; */
+ } 
+ .munna{
+   font-size: xx-large;
+   height:600px;
+   color:crimson;
+   /* background-image: url('C:\Users\97156\Pictures\Its amazing\IMG_20210722_190550.png') */
+   background-image: url('A\ baby.png');
+ }
